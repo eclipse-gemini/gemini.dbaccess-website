@@ -36,7 +36,7 @@
 			<a href="http://www.osgi.org/Download/Release4V42">here</a>.		
 		</p>
 		<h4>Wiki Documentation</h4>
-		Please refer to the DB Access wiki for further documentation
+		Please refer to the DBAccess wiki for further documentation
 			<ul>
 				<li><a href="http://wiki.eclipse.org/Gemini/DBAccess">DB Access Home Page</a></li>
 				<li><a href="http://wiki.eclipse.org/Gemini/DBAccess/GettingStarted">Getting Started</a></li>
