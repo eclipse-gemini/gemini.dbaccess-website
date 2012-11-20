@@ -18,7 +18,7 @@
  *               Mike Keith
  *               Juergen G. Kissner
  *    
- *******************************************************************************/
+ *******************************************************************************/ 
 
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Gemini DBAccess - Home";
