@@ -48,7 +48,27 @@
 			The following are development milestones. You may prefer to <a href="http://www.eclipse.org/gemini/dbaccess/download/">download</a> an official release.
 		</p>
 
-		<h4 class='toggle'>1.1.0.M4</h4>
+	<h4>Gemini DBAccess Milestone Maven Repository</h4>
+	The milestones can be found here
+	<ul>
+		<li><strong>Gemini DBAccess repository</strong> - <a
+			href='http://download.eclipse.org/gemini/dbaccess/mvn/'
+			target='_self'>http://download.eclipse.org/gemini/naming/mvn/</a> 
+		</li>
+			
+		<li> Maven coordinates
+			<pre> 
+			<code>
+			&lt;groupId&gt;org.eclipse.gemini&lt;/groupId&gt;
+			&lt;artifactId&gt;org.eclipse.gemini.dbaccess.{derby|mysql|h2|hsql}&lt;/artifactId&gt;
+			&lt;version&gt;1.1.0.M4E&lt;/version&gt;
+			</code>
+			</pre>
+		</li>
+	</ul>
+
+
+	<h4 class='toggle'>1.1.0.M4</h4>
 		<div class='accordion'>
 			<ul>
 				<li><a href='http://www.eclipse.org/gemini/dbaccess/download/release-notes/1.1.0.M4.php' target='_self'>View Release Notes</a></li>
