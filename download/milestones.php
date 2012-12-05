@@ -57,13 +57,11 @@
 		</li>
 			
 		<li> Maven coordinates
-			<pre> 
-			<code>
-			&lt;groupId&gt;org.eclipse.gemini&lt;/groupId&gt;
-			&lt;artifactId&gt;org.eclipse.gemini.dbaccess.{derby|mysql|h2|hsql}&lt;/artifactId&gt;
-			&lt;version&gt;1.1.0.M4E&lt;/version&gt;
-			</code>
-			</pre>
+			<pre><code>
+&lt;groupId&gt;org.eclipse.gemini&lt;/groupId&gt;
+&lt;artifactId&gt;org.eclipse.gemini.dbaccess.{derby|mysql|h2|hsql}&lt;/artifactId&gt;
+&lt;version&gt;1.1.0.M4E&lt;/version&gt;
+			</code></pre>
 		</li>
 	</ul>
 
