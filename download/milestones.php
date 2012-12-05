@@ -51,16 +51,16 @@
 	<h4>Gemini DBAccess Milestone Maven Repository</h4>
 	The milestones can be found here
 	<ul>
-		<li><strong>Gemini DBAccess repository</strong> - <a
+		<li><strong>Gemini DBAccess Maven repository</strong> - <a
 			href='http://download.eclipse.org/gemini/dbaccess/mvn/'
 			target='_self'>http://download.eclipse.org/gemini/naming/mvn/</a> 
 		</li>
 			
-		<li> Maven coordinates
+		<li> <strong>Maven coordinates:</strong>
 			<pre><code>
 &lt;groupId&gt;org.eclipse.gemini&lt;/groupId&gt;
 &lt;artifactId&gt;org.eclipse.gemini.dbaccess.{derby|mysql|h2|hsql}&lt;/artifactId&gt;
-&lt;version&gt;1.1.0.M4E&lt;/version&gt;
+&lt;version&gt;1.1.0.M4&lt;/version&gt;
 			</code></pre>
 		</li>
 	</ul>
