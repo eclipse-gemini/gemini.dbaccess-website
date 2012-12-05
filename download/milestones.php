@@ -53,7 +53,7 @@
 	<ul>
 		<li><strong>DBAccess Maven repository</strong> - <a
 			href='http://download.eclipse.org/gemini/dbaccess/mvn/'
-			target='_self'>http://download.eclipse.org/gemini/naming/mvn/</a> 
+			target='_self'>http://download.eclipse.org/gemini/dbaccess/mvn/</a> 
 		</li>			
 		<li>Maven coordinates:
 			<pre><code>
