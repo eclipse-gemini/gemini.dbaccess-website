@@ -54,9 +54,8 @@
 		<li><strong>Gemini DBAccess Maven repository</strong> - <a
 			href='http://download.eclipse.org/gemini/dbaccess/mvn/'
 			target='_self'>http://download.eclipse.org/gemini/naming/mvn/</a> 
-		</li>
-			
-		<li> <strong>Maven coordinates:</strong>
+		</li>			
+		<li>Maven coordinates:
 			<pre><code>
 &lt;groupId&gt;org.eclipse.gemini&lt;/groupId&gt;
 &lt;artifactId&gt;org.eclipse.gemini.dbaccess.{derby|mysql|h2|hsql}&lt;/artifactId&gt;
