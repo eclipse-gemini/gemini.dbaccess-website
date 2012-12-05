@@ -51,7 +51,7 @@
 	<h4>Gemini DBAccess Milestone Maven Repository</h4>
 	The milestones can be found here
 	<ul>
-		<li><strong>Gemini DBAccess Maven repository</strong> - <a
+		<li><strong>DBAccess Maven repository</strong> - <a
 			href='http://download.eclipse.org/gemini/dbaccess/mvn/'
 			target='_self'>http://download.eclipse.org/gemini/naming/mvn/</a> 
 		</li>			
