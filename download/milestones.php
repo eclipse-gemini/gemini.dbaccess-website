@@ -26,7 +26,7 @@
 	$pageAuthor		= "Juergen G. Kissner";
 		
 	# $dbaccessVersions = array("1.1.0.M2", "1.1.0.M1");
-	$dbaccessVersions = array("1.1%M2", "1.1%M1", "1.1%M3", "1.1%M4");
+	$dbaccessVersions = array("1.1%M2", "1.1%M1", "1.1%M3", "1.1%M4", "1.1%RC1");
 	
 	ob_start();
 ?>
@@ -58,14 +58,23 @@
 		<li>Maven coordinates:
 			<pre><code>
 &lt;groupId&gt;org.eclipse.gemini&lt;/groupId&gt;
-&lt;artifactId&gt;org.eclipse.gemini.dbaccess.{derby|mysql|h2|hsql}&lt;/artifactId&gt;
-&lt;version&gt;1.1.0.M4&lt;/version&gt;
+&lt;artifactId&gt;org.eclipse.gemini.dbaccess.{derby|mysql|h2|hsqldb}&lt;/artifactId&gt;
+&lt;version&gt;1.1.0.RC1&lt;/version&gt;
 			</code></pre>
 		</li>
 	</ul>
 
-
-	<h4 class='toggle'>1.1.0.M4</h4>
+		<h4 class='toggle'>1.1.0.RC1</h4>
+		<div class='accordion'>
+			<ul>
+				<li><a href='http://www.eclipse.org/gemini/dbaccess/download/release-notes/1.1.0.RC1.php' target='_self'>View Release Notes</a></li>
+				<li>Update Site 'http://download.eclipse.org/gemini/dbaccess/updates/1.1-RC1'</li>
+				<li><strong>Gemini DBAccess p2 update site</strong> -  <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.1/milestones/gemini-dbaccess-1.1.0.RC1-updates.zip" target="_self">Download</a></li>
+			</ul>
+		</div>
+	
+	
+		<h4 class='toggle'>1.1.0.M4</h4>
 		<div class='accordion'>
 			<ul>
 				<li><a href='http://www.eclipse.org/gemini/dbaccess/download/release-notes/1.1.0.M4.php' target='_self'>View Release Notes</a></li>
