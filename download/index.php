@@ -47,10 +47,10 @@
 			unless otherwise specified.
 		</p>
 
-	<h4>Gemini DBAccess Repository</h4>
-	Starting from 1.1.0, the released versions of DBAccess can be found here
+	<h4>Maven Repository</h4>
+	Starting from 1.1.0, the released versions of DBAccess can be found here:
 		<ul>
-			<li><strong>DBAccess Maven repository</strong> - 'http://download.eclipse.org/gemini/mvn/'</li>			
+			<li><strong>Eclipse Gemini Maven repository</strong> - 'http://download.eclipse.org/gemini/mvn/'</li>			
 			<li><strong>Maven coordinates</strong>:
 				<pre><code>
 &lt;groupId&gt;org.eclipse.gemini&lt;/groupId&gt;
