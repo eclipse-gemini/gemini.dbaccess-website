@@ -25,13 +25,12 @@
 	$pageKeywords	= "Eclipse, EclipseRT, OSGi, DBAccess, Downloads";
 	$pageAuthor		= "Juergen G. Kissner";
 
+	$release1_1_0 = "1.1.0.RELEASE";
 	$milestoneM1 = "1.1.0.M1";
 	$milestoneRC1 = "1.1.0.RC1";
 	$milestoneRC2 = "1.1.0.RC2";
-	$milestoneRELEASE = "1.0.0.RELEASE";
-	
-	$latestMilestone = "1.0.0.RELEASE";
-	
+	$release1_0_0 = "1.0.0.RELEASE";
+		
 	ob_start();
 ?>
 
@@ -47,12 +46,34 @@
 			All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> 
 			unless otherwise specified.
 		</p>
-	
+
+		
+		<h4 class='toggle'>1.1.0.RELEASE</h4>
+		<div class='accordion'>
+		
+			<ul>
+				<li><a href='http://www.eclipse.org/gemini/dbaccess/download/release-notes/1.1.0.RELEASE.php' target='_self'>View Release Notes</a></li>
+				<li>Update Site 'http://download.eclipse.org/gemini/updates/dbaccess/1.1.0'</li>
+				<li><strong>Gemini DBAccess p2 update site</strong> -  <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.1/milestones/gemini-dbaccess-<?=$release1_1_0 ?>.zip" target="_self">Download</a></li>				
+				<li><strong>DBAccess Maven repository</strong> - <a
+					href='http://download.eclipse.org/gemini/dbaccess/mvn/'
+					target='_self'>http://download.eclipse.org/gemini/dbaccess/mvn/</a> 
+				</li>			
+				<li>Maven coordinates:
+					<pre><code>
+&lt;groupId&gt;org.eclipse.gemini&lt;/groupId&gt;
+&lt;artifactId&gt;org.eclipse.gemini.dbaccess.{derby|mysql|h2|hsqldb}&lt;/artifactId&gt;
+&lt;version&gt;1.1.0.RELEASE&lt;/version&gt;
+					</code></pre>
+				</li>
+			</ul>
+		</div>
+		
 		<h4 class='toggle'>1.0.0.RELEASE</h4>
 		<div class='accordion'>
 			<ul>
 				<li>Update Site 'http://download.eclipse.org/gemini/updates/dbaccess/1.0.0'</li>
-				<li><strong>Gemini DBAccess</strong> -  <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$latestMilestone ?>.zip" target="_self">Download</a></li>
+				<li><strong>Gemini DBAccess</strong> -  <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$release1_0_0 ?>.zip" target="_self">Download</a></li>
 			</ul>
 		</div>
 
