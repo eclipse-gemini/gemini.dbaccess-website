@@ -47,24 +47,26 @@
 			unless otherwise specified.
 		</p>
 
+	<h4>Gemini DBAccess Repository</h4>
+	Starting from 1.1.0, the released versions of DBAccess can be found here
+		<ul>
+			<li><strong>DBAccess Maven repository</strong> - 'http://download.eclipse.org/gemini/mvn/'</li>			
+			<li><strong>Maven coordinates</strong>:
+				<pre><code>
+&lt;groupId&gt;org.eclipse.gemini&lt;/groupId&gt;
+&lt;artifactId&gt;org.eclipse.gemini.dbaccess.{derby|mysql|h2|hsqldb}&lt;/artifactId&gt;
+&lt;version&gt;1.1.0.RELEASE&lt;/version&gt;
+				</code></pre>
+			</li>
+		</ul>
 		
 		<h4 class='toggle'>1.1.0.RELEASE</h4>
 		<div class='accordion'>		
 			<ul>
 				<li><a href='http://www.eclipse.org/gemini/dbaccess/download/release-notes/1.1.0.RELEASE.php' target='_self'>View Release Notes</a></li>
-				<li>Update Site 'http://download.eclipse.org/gemini/updates/dbaccess/1.1.0'</li>
+				<li><strong>Gemini DBAccess p2 update site URL </strong> - 'http://download.eclipse.org/gemini/updates/dbaccess/1.1.0'</li>
 				<li><strong>Gemini DBAccess p2 update site</strong> -  <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.1/milestones/gemini-dbaccess-<?=$release1_1_0 ?>-updates.zip" target="_self">Download</a></li>				
-				<li><strong>DBAccess Maven repository</strong> - <a
-					href='http://download.eclipse.org/gemini/dbaccess/mvn/'
-					target='_self'>http://download.eclipse.org/gemini/mvn/</a> 
-				</li>			
-				<li>Maven coordinates:
-					<pre><code>
-&lt;groupId&gt;org.eclipse.gemini&lt;/groupId&gt;
-&lt;artifactId&gt;org.eclipse.gemini.dbaccess.{derby|mysql|h2|hsqldb}&lt;/artifactId&gt;
-&lt;version&gt;1.1.0.RELEASE&lt;/version&gt;
-					</code></pre>
-				</li>
+				<li><strong>Maven version</strong> - <code>&lt;version&gt;1.1.0.RELEASE&lt;/version&gt;<code></li>
 			</ul>
 		</div>
 		
